@@ -1,0 +1,26 @@
+ @import url("https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&family=Syne:wght@600;700;800&display=swap");
+
+:root {
+  --bg: #0e1320;
+  --surface: #161d30;
+  --surface-2: #1d2640;
+  --line: #263049;
+  --text: #eceff6;
+  --muted: #8d97b0;
+  --accent: #7fa8ff;
+  --accent-ink: #0b1226;
+  --ok: #4cd6a0;
+  --warn: #f2b84b;
+  --bad: #ff7a85;
+  --display: "Syne", system-ui, sans-serif;
+  --body: "Manrope", system-ui, sans-serif;
+}
+* { box-sizing: border-box; margin: 0; }
+html { scroll-behavior: smooth; }
+body { background: var(--bg); color: var(--text); font-family: var(--body); line-height: 1.55; -webkit-font-smoothing: antialiased; }
+img { display: block; max-width: 100%; }
+button, input, select { font: inherit; color: inherit; }
+button { cursor: pointer; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+h1, h2, h3, .logo { font-family: var(--display); letter-spacing: -0.01em; }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; scroll-behavior: auto !important; } }

@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": "muxw9vaqzeyhx",
+      "name": "Test",
+      "email": "t@t.com",
+      "password": "$2a$10$kAUhRtI72/ae5vSKVn7PDeLaSKig1r4oV3K.CJ3ev2W6Xtgnnq5bS",
+      "balance": 4800
+    },
+    {
+      "id": "muz29xwm2cp3f",
+      "name": "sumon islam ",
+      "email": "shahariadnj456@gmail.com",
+      "password": "$2a$10$zCUKJg7bEyIHJTbjNOUAWO0zLYQ7qwR58ILeCFuoXC.kNd8keCg8m",
+      "balance": 10000
+    }
+  ],
+  "orders": [
+    {
+      "id": "FF-204356",
+      "userId": "muxw9vaqzeyhx",
+      "items": [
+        {
+          "id": 1,
+          "title": "Aero Runner 01",
+          "img": "/products/product-1.jpg",
+          "price": 5200,
+          "qty": 1
+        }
+      ],
+      "total": 5200,
+      "createdAt": "2026-10-07T09:17:52.383Z"
+    }
+  ]
+}

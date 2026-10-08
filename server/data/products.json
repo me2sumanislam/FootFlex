@@ -1,0 +1,302 @@
+ [
+  {
+    "id": 1,
+    "title": "Aero Runner 01",
+    "img": "/products/product-1.jpg",
+    "rating": 4.2,
+    "description": "Featherlight mesh runner with a responsive foam midsole for daily miles.",
+    "price": 5200,
+    "status": "available",
+    "stock": 2
+  },
+  {
+    "id": 2,
+    "title": "Nimbus Court Low",
+    "img": "/products/product-2.jpg",
+    "rating": 4.3,
+    "description": "Clean leather court sneaker with a cushioned insole and soft heel collar.",
+    "price": 6400,
+    "status": "available",
+    "stock": 2
+  },
+  {
+    "id": 3,
+    "title": "Stride Pro Elite",
+    "img": "/products/product-3.jpg",
+    "rating": 3.9,
+    "description": "Race-day trainer with a carbon-infused plate and snappy toe-off.",
+    "price": 13800,
+    "status": "available",
+    "stock": 10
+  },
+  {
+    "id": 4,
+    "title": "Urban Drift",
+    "img": "/products/product-4.jpg",
+    "rating": 3.9,
+    "description": "Everyday knit sneaker, sock-like fit and a grippy rubber outsole.",
+    "price": 4800,
+    "status": "sold",
+    "stock": 0
+  },
+  {
+    "id": 5,
+    "title": "Midnight Oxford",
+    "img": "/products/product-5.jpg",
+    "rating": 4.5,
+    "description": "Polished full-grain leather oxford with a stitched leather sole.",
+    "price": 9800,
+    "status": "available",
+    "stock": 10
+  },
+  {
+    "id": 6,
+    "title": "Trailblazer GTX",
+    "img": "/products/product-6.jpg",
+    "rating": 4.1,
+    "description": "Waterproof trail shoe with deep lugs for wet rock and mud.",
+    "price": 8900,
+    "status": "available",
+    "stock": 2
+  },
+  {
+    "id": 7,
+    "title": "Cloud Walker",
+    "img": "/products/product-7.jpg",
+    "rating": 4.3,
+    "description": "Maximum cushion walking shoe with a rocker sole for tired feet.",
+    "price": 7200,
+    "status": "available",
+    "stock": 2
+  },
+  {
+    "id": 8,
+    "title": "Retro Hi 86",
+    "img": "/products/product-8.jpg",
+    "rating": 4.1,
+    "description": "High-top throwback in tumbled leather with a vulcanized sole.",
+    "price": 6900,
+    "status": "available",
+    "stock": 10
+  },
+  {
+    "id": 9,
+    "title": "Sprint Spike X",
+    "img": "/products/product-9.jpg",
+    "rating": 4.3,
+    "description": "Lightweight track spike with a stiff plate for explosive starts.",
+    "price": 10400,
+    "status": "sold",
+    "stock": 0
+  },
+  {
+    "id": 10,
+    "title": "Velvet Loafer",
+    "img": "/products/product-10.jpg",
+    "rating": 4.8,
+    "description": "Suede penny loafer with a flexible sole, made for long dinners.",
+    "price": 8200,
+    "status": "available",
+    "stock": 2
+  },
+  {
+    "id": 11,
+    "title": "Hardwood Jump",
+    "img": "/products/product-11.jpg",
+    "rating": 4.9,
+    "description": "Basketball shoe with ankle lockdown and responsive forefoot air.",
+    "price": 11200,
+    "status": "available",
+    "stock": 12
+  },
+  {
+    "id": 12,
+    "title": "Studio Slip-On",
+    "img": "/products/product-12.jpg",
+    "rating": 4.6,
+    "description": "Minimal canvas slip-on with an elastic gusset and cork footbed.",
+    "price": 3500,
+    "status": "available",
+    "stock": 2
+  },
+  {
+    "id": 13,
+    "title": "Summit Boot",
+    "img": "/products/product-13.jpg",
+    "rating": 4.5,
+    "description": "Ankle-high leather hiker with a cushioned, shock-absorbing midsole.",
+    "price": 12500,
+    "status": "available",
+    "stock": 8
+  },
+  {
+    "id": 14,
+    "title": "Pitch Master FG",
+    "img": "/products/product-14.jpg",
+    "rating": 3.9,
+    "description": "Firm-ground football boot with a touch-enhancing synthetic upper.",
+    "price": 9400,
+    "status": "available",
+    "stock": 3
+  },
+  {
+    "id": 15,
+    "title": "Vapor Knit 2",
+    "img": "/products/product-15.jpg",
+    "rating": 3.9,
+    "description": "Breathable engineered-knit trainer for gym and street alike.",
+    "price": 5600,
+    "status": "sold",
+    "stock": 0
+  },
+  {
+    "id": 16,
+    "title": "Chelsea Noir",
+    "img": "/products/product-16.jpg",
+    "rating": 4.8,
+    "description": "Sleek leather Chelsea boot with elastic side panels and a stacked heel.",
+    "price": 10900,
+    "status": "available",
+    "stock": 5
+  },
+  {
+    "id": 17,
+    "title": "Canvas Classic",
+    "img": "/products/product-17.jpg",
+    "rating": 4.3,
+    "description": "Timeless low-top canvas shoe in a durable, easy-to-style cut.",
+    "price": 3900,
+    "status": "available",
+    "stock": 10
+  },
+  {
+    "id": 18,
+    "title": "Marathon Boost",
+    "img": "/products/product-18.jpg",
+    "rating": 3.9,
+    "description": "Long-distance cushioning with a springy, energy-returning midsole.",
+    "price": 12200,
+    "status": "available",
+    "stock": 5
+  },
+  {
+    "id": 19,
+    "title": "Desert Suede",
+    "img": "/products/product-19.jpg",
+    "rating": 4.5,
+    "description": "Soft suede lace-up with a crepe sole in a muted earth tone.",
+    "price": 7600,
+    "status": "available",
+    "stock": 12
+  },
+  {
+    "id": 20,
+    "title": "Skate Deck Pro",
+    "img": "/products/product-20.jpg",
+    "rating": 4,
+    "description": "Reinforced suede skate shoe with a padded tongue and flat grip sole.",
+    "price": 5900,
+    "status": "available",
+    "stock": 10
+  },
+  {
+    "id": 21,
+    "title": "Terra Sandal",
+    "img": "/products/product-21.jpg",
+    "rating": 4.5,
+    "description": "Contoured footbed sandal with adjustable straps for warm days.",
+    "price": 4200,
+    "status": "available",
+    "stock": 3
+  },
+  {
+    "id": 22,
+    "title": "Lunar Trainer",
+    "img": "/products/product-22.jpg",
+    "rating": 4.2,
+    "description": "Versatile cross-trainer with a stable base for lifting and HIIT.",
+    "price": 8400,
+    "status": "sold",
+    "stock": 0
+  },
+  {
+    "id": 23,
+    "title": "Heritage Derby",
+    "img": "/products/product-23.jpg",
+    "rating": 4.5,
+    "description": "Hand-finished leather derby with a Goodyear-welted sole.",
+    "price": 13200,
+    "status": "available",
+    "stock": 2
+  },
+  {
+    "id": 24,
+    "title": "Wave Slider",
+    "img": "/products/product-24.jpg",
+    "rating": 4.5,
+    "description": "Slip-resistant slide with a plush footbed for post-workout recovery.",
+    "price": 2800,
+    "status": "available",
+    "stock": 10
+  },
+  {
+    "id": 25,
+    "title": "Phantom Low",
+    "img": "/products/product-25.jpg",
+    "rating": 4,
+    "description": "Stealth all-black low-top with tonal stitching and a cushioned sole.",
+    "price": 6100,
+    "status": "available",
+    "stock": 12
+  },
+  {
+    "id": 26,
+    "title": "Glacier Winter",
+    "img": "/products/product-26.jpg",
+    "rating": 4.4,
+    "description": "Insulated winter sneaker with a water-repellent shell and warm lining.",
+    "price": 9100,
+    "status": "available",
+    "stock": 5
+  },
+  {
+    "id": 27,
+    "title": "Coral Pace",
+    "img": "/products/product-27.jpg",
+    "rating": 4.4,
+    "description": "Bright women-cut runner with a soft collar and breathable upper.",
+    "price": 5400,
+    "status": "available",
+    "stock": 8
+  },
+  {
+    "id": 28,
+    "title": "Monarch Platform",
+    "img": "/products/product-28.jpg",
+    "rating": 4.2,
+    "description": "Chunky platform sneaker in smooth leather with a bold sole.",
+    "price": 7800,
+    "status": "sold",
+    "stock": 0
+  },
+  {
+    "id": 29,
+    "title": "Tempo Racer",
+    "img": "/products/product-29.jpg",
+    "rating": 4.1,
+    "description": "Lightweight tempo shoe with a snappy ride for fast training days.",
+    "price": 8800,
+    "status": "available",
+    "stock": 3
+  },
+  {
+    "id": 30,
+    "title": "Obsidian Legacy",
+    "img": "/products/product-30.jpg",
+    "rating": 4.6,
+    "description": "Our flagship limited-edition leather sneaker with gold-tone hardware.",
+    "price": 14500,
+    "status": "available",
+    "stock": 3
+  }
+]
